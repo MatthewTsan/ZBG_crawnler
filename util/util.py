@@ -1,3 +1,3 @@
 # encoding:utf-8
-username = ""
-password = ""
+username = "username"
+password = "password"

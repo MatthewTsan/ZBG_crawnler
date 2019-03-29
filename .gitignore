@@ -1,0 +1,25 @@
+# pycharm
+.idea/2018.08.23ZBG_downloader.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+__pycache__/login_selenium.cpython-36.pyc
+__pycache__/open_url.cpython-36.pyc
+
+#personal configurations
+log.log
+test.html
+video.html
+
+#python 
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+#util
+util/*
+util/util.py
+util/util.py
